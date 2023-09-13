@@ -1,0 +1,6 @@
+pandas
+yfinance
+altair
+streamlit
+PIL
+Image
